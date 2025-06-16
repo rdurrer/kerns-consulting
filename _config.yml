@@ -1,0 +1,8 @@
+title: Kerns Consulting
+email: info@kerns.com.br
+description: >-
+  Kerns Consulting specializes in Project and Contract Management with 40+ years of expertise.
+baseurl: "" 
+url: "http://kerns.com.br"
+theme: 
+markdown: kramdown
